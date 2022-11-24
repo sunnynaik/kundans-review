@@ -1,0 +1,24 @@
+{
+    "users": [
+        {
+            "name" : "augustus-g-mantia",
+            "pid":"0000072500001497288302",
+             "officeId":"0000072440018070746301",
+             "epicVisitId":"2252"
+        },
+        {
+            "name" : "zahava-hersh",
+            "pid":"0000072500081997722401",
+            "officeId":"0000072440088485458481",
+            "epicVisitId":"2252"
+      },
+      {
+        "name" : "maki-kano",
+        "pid":"0000072500004566809911",
+        "officeId":"0000072440042064878701",
+        "epicVisitId":"2252"
+  }
+
+    ]
+  }
+  

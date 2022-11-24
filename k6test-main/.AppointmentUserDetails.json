@@ -1,0 +1,16 @@
+{
+    "users" : [
+            {
+                "firstName":"sjbdbf",
+                "lastName":"rge",
+                "dob":"2009-02-03",
+                "gender":"male",
+                "street":"k-sector",
+                "city":" Birmingham",
+                "state":"Alabama",
+                "zipCode":"35242",
+                "email":"realvk4n@gmail.com"
+                    
+            }
+    ]
+}
